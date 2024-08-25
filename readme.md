@@ -1,1 +1,1 @@
-# snippy-demo
+# octpus-demo
